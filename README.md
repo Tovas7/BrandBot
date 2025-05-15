@@ -34,7 +34,7 @@ BrandBot is an intelligent brand name generator that helps entrepreneurs, market
 1. Clone the repository
 
 ```plaintext
-git clone https://github.com/yourusername/brandbot.git
+git clone https://github.com/Tovas7/BrandBot.git
 ```
 
 
